@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb",
+  "version": "1.0.0",
+  "description": "local test for synamo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb",
+    "nodejs"
+  ],
+  "author": "Tal Riginiano",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.4.11",
+    "randomstring": "^1.1.5"
+  }
+}
